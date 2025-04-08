@@ -106,6 +106,6 @@ under construction or in advanced planning stages.
 
 Do we need volume and depth data? 
 
-### Data storage location
+### Data storage
 
-s3://deafrica-waterbodies-dev/waterbodies/v0.0.3/waterbodies-attributes/
+DE Africa Waterbodies polygons with the combined attributes are available here https://deafrica-waterbodies-dev.s3.af-south-1.amazonaws.com/waterbodies/v0.0.3/waterbodies-attributes/deafrica_waterbodies_combined_attrs.parquet
