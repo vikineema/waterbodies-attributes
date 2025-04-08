@@ -6,6 +6,8 @@ Paper: https://doi.org/10.1002/gdj3.285
 
 Data: https://zenodo.org/records/14190225
 
+License: Open Database Licence (ODbL) v1.0
+
 The Global Lake/Reservoir Surface Extent Dataset (GLRSED) contains the spatial extent and basic attributes (e.g., name, area, lake type and source) of 2.17 million lakes/reservoirs and was produced based on HydroLAKES, GRanD and OpenStreetMap. The dataset contains 1423875 lakes and 747268 reservoirs.
 
 Data Sources:
@@ -68,6 +70,8 @@ Paper: https://doi.org/10.1038/s41597-022-01449-5
 
 Attibutes info: https://zenodo.org/records/5762433/files/1-ReaLSAT.html?download=1
 
+License: Creative Commons Attribution 4.0 International
+
 ### ReaLSAT Results
 
 There are 34,311 waterbodies in the ReaLSAT dataset for Africa.
@@ -85,7 +89,7 @@ Data download: https://forms.gle/uGPPTELE8hEaNMhR7
 
 Paper: https://doi.org/10.1038/s41597-024-03752-9
 
-License:  CC BY license
+License:  CC-BY 4.0
 
 This is a globally consistent dam and instream barrier data product for global-scale analyses.
 
